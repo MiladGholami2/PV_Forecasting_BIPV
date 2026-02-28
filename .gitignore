@@ -1,0 +1,22 @@
+# MATLAB temporary files
+*.asv
+*.autosave
+*.m~
+*.fig~
+*.mex*
+*.mat
+
+# Simulink generated
+slprj/
+*.slxc
+
+# Data files (if large)
+*.csv
+data/
+results/
+output/
+
+# OS / IDE
+.DS_Store
+.vscode/
+
