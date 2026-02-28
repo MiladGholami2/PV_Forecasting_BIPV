@@ -661,7 +661,7 @@ va_idx = find(isVal);
 yhat_full_gbm   = nan(nT,1);
 yhat_full_ridge = nan(nT,1);
 
-% initial lag buffer:
+% initial lag buffer what:
 % use last available TRUE y before validation starts (if exists)
 t0 = va_idx(1);
 lagbuf = nan(1,L);
