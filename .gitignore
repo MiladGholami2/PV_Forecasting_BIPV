@@ -1,10 +1,10 @@
+
 # MATLAB temporary files
 *.asv
 *.autosave
 *.m~
 *.fig~
 *.mex*
-*.mat
 
 # Simulink generated
 slprj/
